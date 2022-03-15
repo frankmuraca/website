@@ -3,11 +3,8 @@ baseURL: http://frankmuraca.netlify.app
 languageCode: en-us
 title: Frank Muraca
 enableEmoji: true
-[social]
-    github: "https://github.com/rstudio/blogdown"
-    twitter: "https://twitter.com/rstudio"
-    
-    
+
+
 menu:
   main:
     - name: "About"
