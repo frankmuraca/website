@@ -1,0 +1,12 @@
+---
+title: Privacy and neighborhood analysis
+author: Frank Muraca
+date: '2022-03-15'
+slug: []
+categories:
+  - Neighborhoods
+tags:
+  - Privacy
+---
+
+Writing.
