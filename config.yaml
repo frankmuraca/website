@@ -2,3 +2,17 @@ theme: "hugo-PaperMod"
 baseURL: http://frankmuraca.netlify.app
 languageCode: en-us
 title: Frank Muraca
+enableEmoji: true
+[social]
+    github: "https://github.com/rstudio/blogdown"
+    twitter: "https://twitter.com/rstudio"
+    
+    
+menu:
+  main:
+    - name: "About"
+      url: "/about/"
+      weight: 1
+    - name: "Blog"
+      url: "/"
+      weight: 2
