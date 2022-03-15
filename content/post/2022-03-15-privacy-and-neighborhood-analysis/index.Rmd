@@ -1,5 +1,5 @@
 ---
-title: Privacy and neighborhood analysis
+title: Privacy and neighborhood data
 author: Frank Muraca
 date: '2022-03-15'
 slug: []
@@ -9,4 +9,14 @@ tags:
   - Privacy
 ---
 
-Writing.
+I'm reading Claire McKay Bowen's excellent book [*Protecting Your Privacy in a Data Driven World*](https://clairemckaybowen.com/book/), about balancing the data needs of researchers and policymakers with the privacy needs of those reflected in the data. It's an approachable overview of how privacy influences how the federal government shares data. (And great for people without a deep background in stats `r emo::ji("person_raising_hand_light_skin_tone")`).
+
+For example, Dr. Bowan shares an anecdote about how Census workers worked with federal officials to identify Japanese citizens and Japanese-descendants prior to internment during WWII. ([More here.](https://exhibits.lib.berkeley.edu/spotlight/census/feature/japanese-americans-in-world-war-ii-and-the-census))
+
+I'm often working on data analysis for small geographic areas through my work at UNC School of Government. This usually involves collecting and cleaning data on 300 to 600 parcels of which most are residential units. The goal of this exercise is to help local stakeholders understand trends at a granular level. The data helps answer questions such as:
+
+-   Are out-of-town investors buying properties in this neighborhood? What types of homes do they tend to acquire?
+
+-   Have public interventions like code enforcement, home repair programs, or streetscaping projects been effective at changing recent conditions?
+
+The results help local policymakers.
