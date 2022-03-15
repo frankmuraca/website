@@ -13,3 +13,7 @@ menu:
     - name: "Blog"
       url: "/"
       weight: 2
+
+params:
+    ShowShareButtons: true
+    
