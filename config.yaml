@@ -10,6 +10,3 @@ menu:
     - name: "About"
       url: "/about/"
       weight: 1
-    - name: "Blog"
-      url: "/"
-      weight: 2
