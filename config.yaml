@@ -2,6 +2,7 @@ theme: "hugo-PaperMod"
 baseURL: http://frankmuraca.netlify.app
 languageCode: en-us
 title: Frank Muraca
+subtitle: Neighborhoods & housing 🏡 Disaster recovery ☔ Community-driven data 📊
 enableEmoji: true
 
 
