@@ -2,7 +2,6 @@ theme: "hugo-PaperMod"
 baseURL: http://frankmuraca.netlify.app
 languageCode: en-us
 title: Frank Muraca
-subtitle: Neighborhoods & housing 🏡 Disaster recovery ☔ Community-driven data 📊
 enableEmoji: true
 
 
@@ -19,8 +18,7 @@ params:
     ShowShareButtons: true
     
     homeInfoParams:
-        Title: Hi there wave
-        Content: Neighborhoods & housing 🏡 Disaster recovery ☔ Community-driven data 📊
+        Title: Hi there! Welcome to my blog about neighborhoods & housing 🏡 Disaster recovery ☔ Community-driven data 📊
 
     socialIcons: # optional
         - name: "github"

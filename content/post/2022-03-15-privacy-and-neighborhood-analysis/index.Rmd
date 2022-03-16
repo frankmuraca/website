@@ -23,7 +23,7 @@ Throughout the book I've been thinking about past projects where I collected and
 
 These datasets are drawn from tax parcel data and supplemented with on-the-ground fieldwork that identifies building conditions, vacancy, and community assets. As these types of projects became more popular over the past few years, my team and I often discuss how this information should be shared responsibly.
 
-*Levels of publicness*
+    <span style="background-color: #fca129">Levels of publicness</span>
 
 The majority of datapoints we include in these projects are from county GIS departments. In that sense, our analysis doesn't disclose individual identities (like property ownership) any more than what's already provided by county tax assessment offices.
 
