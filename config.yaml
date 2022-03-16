@@ -18,3 +18,14 @@ menu:
 params:
     ShowShareButtons: true
     
+    homeInfoParams:
+        Title: Hi there wave
+        Content: Neighborhoods & housing 🏡 Disaster recovery ☔ Community-driven data 📊
+
+    socialIcons: # optional
+        - name: "github"
+          url: "https://github.com/frankmuraca"
+        - name: "twitter"
+          url: "https://twitter.com/FrankMuraca"
+        - name: "email"
+          url: "mailto:fhmuraca@gmail.com"
