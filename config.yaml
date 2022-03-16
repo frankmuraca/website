@@ -18,7 +18,8 @@ params:
     ShowShareButtons: true
     
     homeInfoParams:
-        Title: Hi there! Welcome to my blog about neighborhoods & housing 🏡 Disaster recovery ☔ Community-driven data 📊
+        Title: Hi there!👋 
+        content: I write about neighborhoods & housing 🏡 disaster recovery ☔ and community-driven data 📊
 
     socialIcons: # optional
         - name: "github"
