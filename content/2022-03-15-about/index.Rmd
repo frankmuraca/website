@@ -7,4 +7,14 @@ categories: []
 tags: []
 ---
 
-This is an about page!
+\#Hi! Welcome.
+
+I am an analyst at UNC School of Government's [Development Finance Initiative](https://dfi.sog.unc.edu/). I work with local governments on topics related to affordable housing, neighborhood revitalization, and disaster recovery. My role at DFI involves collecting, cleaning, analyzing, and visualization data to help communities answer questions like:
+
+-   How many low-income households in our community need affordable housing?
+
+-   How are landlords impacting the availability and quality of affordable housing within a neighborhood? On a single block?
+
+-   Where are suitable sites for affordable housing that are both resilient against natural disasters and have a viable path to development?
+
+I also write about these questions on UNC School of Government's [Community & Economic Development](https://ced.sog.unc.edu/author/3857/) blog. This site includes blog posts related to these topics but are more musings than fully fleshed ideas. In addition to this research, I'm passionate about building and developing data teams who are interested in these topics. This could mean everything from collaborating with local residents on identifying which data is needed and how best to collect, to developing public-facing tools that empower residents to advocate for their communities. (For example, here is a `Shiny App` for pulling [simple housing needs data](https://frankmuraca.shinyapps.io/chasr/) for all 100 counties in North Carolina. `r emo::ji("computer")` )
