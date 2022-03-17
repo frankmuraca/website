@@ -7,7 +7,9 @@ categories: []
 tags: []
 ---
 
-\#Hi! Welcome.
+### Hi! Welcome.
+
+![](https://pbs.twimg.com/profile_images/1488342208084336640/3f0RrtqT_400x400.jpg){width="300"}
 
 I am an analyst at UNC School of Government's [Development Finance Initiative](https://dfi.sog.unc.edu/). I work with local governments on topics related to affordable housing, neighborhood revitalization, and disaster recovery. My role at DFI involves collecting, cleaning, analyzing, and visualization data to help communities answer questions like:
 
