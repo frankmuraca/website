@@ -25,7 +25,7 @@ We relied on tax parcel data and supplemented it with on-the-ground fieldwork th
 
 ### Levels of publicness
 
-The majority of datapoints we include in these projects are from county GIS departments. `r emo::ji("map")` In that sense, our analysis doesn't disclose individual identities (like property ownership) any more than what's already provided by county tax assessment offices.
+The majority of datapoints we include in these projects are from county GIS departments. In that sense, our analysis doesn't disclose individual identities (like property ownership) any more than what's already provided by county tax assessment offices.
 
 However, the truth is that while the data was technically public, in many communities (often rural) the data is presented through GIS tools that are difficult to navigate or explore. Our team at UNC School of Government would download this data, clean it, and create visualizations that show trends and relationships. In many cases, the maps we produce are the first time local government staff have seen their community visualized through tax parcel data.
 
